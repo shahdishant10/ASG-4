@@ -1,5 +1,11 @@
-#include"HEADER.CPP"
+/**
+    CS-700 Assignment 3
+    @file HEADER.h
+    @author Dishant Shah
+    @date 8th November 2022
+*/
 
+#include"HEADER.CPP"
 
 int main()
 {
